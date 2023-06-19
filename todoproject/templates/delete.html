@@ -1,0 +1,7 @@
+{% block body %}
+<form method="POST">
+  {% csrf_token %}
+  <p>Are ypu sure this task is done?<p>
+  <button type="submit"> confirm</button>
+</form>
+{% endblock %}

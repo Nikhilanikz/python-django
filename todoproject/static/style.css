@@ -1,0 +1,11 @@
+.banner{
+        background-color:indianred;
+        width:100%;height:200px;
+        margin-bottom:40px;
+}
+.banner-text{
+        top:10%;
+        left:40%;
+        position:absolute;
+        transform:transform;
+}
